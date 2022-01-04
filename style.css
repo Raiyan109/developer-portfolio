@@ -12,6 +12,7 @@ h1{
 }
 section{
     display:flex; 
+    margin-bottom: 150px ;
 }
 .half-width{
      width: 50% ;
@@ -35,5 +36,25 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat ;
    
+}
+
+
+.resume{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato );
+    padding: 10px 40px ;
+    border-radius: 5px ;
+    font-weight: 700;
+
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+#right-padding{
+    padding-right: 15% ;
 }
 
