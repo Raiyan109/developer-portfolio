@@ -68,8 +68,24 @@ h2{
     padding-left: 5%;
     padding-right: 5% ;
     border-radius: 5px ;
+   
     
 
+
+}
+#full-stack{
+    border-image: linear-gradient(purple, red );
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+#baby-stack{
+    border-image: linear-gradient(blue, cyan );
+    border-image-slice: 1;
+    border-left: 7px solid;
+
+}
+footer p{
+    text-align: center;
 
 }
 
